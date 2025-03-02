@@ -15,6 +15,3 @@ Ensure Python is installed, then install dependencies:
 pip install opencv-python numpy
 
 python CardDetector.py
-
-
-This will ensure proper formatting in Markdown. Let me know if you need further changes! 🚀
